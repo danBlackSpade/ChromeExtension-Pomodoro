@@ -1,6 +1,15 @@
 {
   "manifest_version": 3,
   "name": "Pomodoro",
-  "version": " 0.8",
-  "description": "Use for focus or control time surfing the web"
+  "version": "1.0",
+  "description": "Use for focus or control time surfing the web",
+  "action": {
+    "default_title": "Pomodoro",
+    "default_popup": "popup/popup.html"
+  },
+"permissions": ["storage", "alarms", "notifications"],
+"background": {
+  "service_worker": "background.js"
+},
+"options_page": "options/options.html"
 }
