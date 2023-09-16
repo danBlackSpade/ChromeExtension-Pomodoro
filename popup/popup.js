@@ -6,6 +6,8 @@ function updateTime() {
     let seconds = "00"
     if (res.timer % 60 != 0) {
       seconds = `${60 - res.timer % 60}`.padStart(2, "0")
+    } else {
+      seconds = "00"
     }
     time.textContent = `${minutes}:${seconds}`
     startTimerBtn.textContent = res.isRunning ? "Pause Pomodoro" : "Start Pomodoro"

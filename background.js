@@ -10,7 +10,7 @@ chrome.alarms.onAlarm.addListener((alarm) => {
               let isRunning = true
               if (timer === 60 * res.timeOption) {
                   this.registration.showNotification("Pomodoro", {
-                      body: `${res.timeOption} minutes has passed!`,
+                      body: `You completed ${res.timeOption} minutes of Pomodoro 👏🎉!`,
                       // icon: "icon.png",
                   })
                   timer = 0
