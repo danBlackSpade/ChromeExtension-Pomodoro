@@ -1,5 +1,9 @@
 # ChromeExtension-Pomodoro
 
+![alt pomodoro timer](rsc/chrome_ImtimCUNYO.png)
+![alt break timer](rsc/t68J7drQkY.png)
+![alt notification](rsc/IdpeLdaqCl.png)
+
 ## ✅ Features
 
 - Pomodoro timer
