@@ -1,8 +1,8 @@
 # ChromeExtension-Pomodoro
 
-![alt pomodoro timer](rsc/chrome_ImtimCUNYO.png)
-![alt break timer](rsc/t68J7drQkY.png)
-![alt notification](rsc/IdpeLdaqCl.png)
+![t68J7drQkY](https://github.com/danBlackSpade/ChromeExtension-Pomodoro/assets/11401543/e40a85b9-9897-4e3a-80b8-450f7eb3e0fc)
+![chrome_ImtimCUNYO](https://github.com/danBlackSpade/ChromeExtension-Pomodoro/assets/11401543/dab356fd-8344-493d-8206-19363b8de44d)
+![IdpeLdaqCl](https://github.com/danBlackSpade/ChromeExtension-Pomodoro/assets/11401543/e67f734d-f989-40e5-9a1d-8a8a7b86848c)
 
 ## ✅ Features
 
