@@ -2,6 +2,9 @@
   "manifest_version": 3,
   "name": "Pomodoro",
   "version": "1.0",
+  "icons": {
+    "128": "rsc/tecnica-pomodoro.png"
+  },
   "description": "Use for focus or control time surfing the web",
   "action": {
     "default_title": "Pomodoro",
