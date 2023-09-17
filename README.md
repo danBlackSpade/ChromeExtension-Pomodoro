@@ -1,12 +1,12 @@
 # ChromeExtension-Pomodoro
 
-## Features
+## ✅ Features
 
-✅ Pomodoro timer
-✅ Break timer
-✅ Pause/Continue timer
-✅ Notification when pomodoro and break ends
-✅ Custom minutes for pomodoro and break timer
+- Pomodoro timer
+- Break timer
+- Pause/Continue timer
+- Notification when pomodoro and break ends
+- Custom minutes for pomodoro and break timer
 
 ## ✍️ How Can You Use This Extension
 
