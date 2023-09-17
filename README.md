@@ -21,3 +21,6 @@
 3. Focus only on your task until the timer rings
 4. Take break
 5. After every four Pomodoros, take a longer break
+
+# Credits
+<a href="https://www.flaticon.com/br/icones-gratis/tecnica-pomodoro" title="técnica pomodoro ícones">ícone criado por nangicon - Flaticon</a>
